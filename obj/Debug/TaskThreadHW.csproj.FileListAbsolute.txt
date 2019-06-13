@@ -1,0 +1,10 @@
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\bin\Debug\TaskThreadHW.exe.config
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\bin\Debug\TaskThreadHW.exe
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\bin\Debug\TaskThreadHW.pdb
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\bin\Debug\Newtonsoft.Json.dll
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\bin\Debug\Newtonsoft.Json.xml
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\obj\Debug\TaskThreadHW.csprojAssemblyReference.cache
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\obj\Debug\TaskThreadHW.csproj.CoreCompileInputs.cache
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\obj\Debug\TaskThreadHW.csproj.CopyComplete
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\obj\Debug\TaskThreadHW.exe
+c:\users\байназарс\source\repos\TaskThreadHW\TaskThreadHW\obj\Debug\TaskThreadHW.pdb
